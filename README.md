@@ -67,6 +67,41 @@ The Solana Trading Bot helps you trade tokens on the Pump.fun on Solana blockcha
   node sell.js
   ```
 
+## Popular Solana Trading & Bot Development Resources
+
+| Solana DeFi Tools | GitHub Repository |
+|----------|--------------|
+| 🚀 Pump.fun Trading Bot | [Solana Pumpfun Sniper Bot](https://github.com/plzbugmenot/Pumpfun_Sniper_Bot) |
+| 📊 DEX Trading Platform | [Solana Pumpfun Sniper Platform](https://github.com/plzbugmenot/Solana_Pumpfun_Website_Portfolio) |
+| 💹 Raydium Trading Bot | [Solana Raydium Sniper Bot](https://github.com/plzbugmenot/Solana_Raydium_Sniper_Bot) |
+| 📈 Volume Analysis Tool | [Solana Raydium Volume Bot](https://github.com/plzbugmenot/Solana_Raydium_Volume_Bot) |
+| 💸 Token Transfer Tool | [Solana SPL token Transfer](https://github.com/plzbugmenot/Solana_Spl_Token_Transfer) |
+| 📝 Smart Contract | [Solana Presale Smart Contract](https://github.com/plzbugmenot/Solana_Presale_Smart_Contract) |
+| 👛 Wallet Management | [Solana Wallet Manager](https://github.com/plzbugmenot/Solana_Wallet_Manager_Script) |
+| 🤖 Telegram Trading Bot | [Solana Trading Telegram Bot](https://github.com/plzbugmenot/Solana_Trading_TG_Bot) |
+| 👀 Wallet Tracker Bot | [Solana Wallet Track Telegram Bot](https://github.com/plzbugmenot/Solana_Wallet_Track_TG_Bot) |
+| 📱 Telegram Bot Starter | [Telegram Bot Initialization with Node.js](https://github.com/plzbugmenot/TG-bot-init) |
+| ⏰ Alert System Bot | [Telegram Alarm Bot](https://github.com/plzbugmenot/TG-signal-bot) |
+| 💰 Earn App | [Tap to Earn Telegram Mini app](https://github.com/plzbugmenot/Erne-Legacy-TG-App-Frontend) |
+| 🔄 Cross-Platform Bot | [Discord to Telegram Message Forward Bot](https://github.com/plzbugmenot/D2T_CA_bot_Node) |
+| 🐍 Discord Python Bot | [Discord Bot Initialization with Python](https://github.com/plzbugmenot/Discord-Bot-init-Python) |
+
+### Getting Started with Solana Trading Automation
+1. Choose your trading strategy
+2. Select appropriate tools
+3. Configure your automation
+4. Monitor & optimize performance
+
+### Popular Use Cases
+- Automated Token Sniping
+- DEX Trading Automation
+- Portfolio Management
+- Whale Tracking
+- Price Monitoring
+- Smart Contract Deployment
+
+# SolanaTrading, DeFi, TradingBot, CryptoAutomation, SolanaDEX, PumpFun, Raydium, SPLTokens, BlockchainDevelopment, CryptoTrading
+
 ## Contact
 
-For any questions or support, please contact us at [Email](jasonsmith0614.dev@gmail.com).
+For any questions or support, please contact us at [Telegram](https://t.me/plzbugmenot).
